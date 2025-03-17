@@ -42,9 +42,9 @@
   <br />
 
   <!-- Backend -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
+ <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40"/>
+</a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>  
@@ -84,24 +84,4 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### 🚀 Featured Projects  
-- 🛒 **E-commerce Microservices** - Built with **NestJS, Sequelize, and Angular** [🔗 Repo](#)  
-- 📦 **Order Management System** - Developed using **NGXS and Jest for unit testing** [🔗 Repo](#)  
-
----
-
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkingarzon&show_icons=true&theme=radical" alt="Elkin's GitHub stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=elkingarzon&theme=onedark" alt="Elkin's GitHub Trophies" />
 </p>
